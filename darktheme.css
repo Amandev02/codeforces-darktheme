@@ -10,6 +10,7 @@
     --genericLinkVisitedBlueColor: #8ab1ff;
 }
 
+
 /* BACKGROUND/BORDER COLOR CHANGES */
 body:not(.wysiwyg), /* wysiwyg is the textbox in the usertalk section, it's inside an iframe */
 .roundbox,
